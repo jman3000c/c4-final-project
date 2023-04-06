@@ -1,7 +1,8 @@
 # TODO: Change the name of the org 
-org: Mandlar
+org: mandlar
 app: serverless-todo-app-p4
 service: serverless-todo-app-p4
+frameworkVersion: "3.23.0"
 
 plugins:
   - serverless-webpack
